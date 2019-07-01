@@ -53,7 +53,7 @@ def reduce_to_all_true(source_array)
       value = false 
       return value
     end
-    i+=1
+    i += 1
   end
   return value
 end
