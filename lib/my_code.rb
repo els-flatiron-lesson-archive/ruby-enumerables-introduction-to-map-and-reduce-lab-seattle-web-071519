@@ -35,7 +35,7 @@ end
 
 def reduce_to_total(source_array, starting_point)
   if starting_point
-    return starting_point
+    value = starting_point
   else 
     value = 0 
   end
