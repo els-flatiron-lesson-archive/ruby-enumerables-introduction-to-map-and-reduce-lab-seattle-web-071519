@@ -52,6 +52,7 @@ def reduce_to_all_true(source_array)
     else
       value = false 
       return value
+    end
   end
   return value
 end
